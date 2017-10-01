@@ -1,0 +1,185 @@
+[Tue Oct 14 23:13:19 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Tue Oct 14 23:13:19 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Thu Nov 06 22:13:34 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Thu Nov 06 22:13:34 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Thu Nov 06 22:15:38 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Thu Nov 06 22:15:38 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Thu Nov 06 23:28:09 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Thu Nov 06 23:28:09 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Thu Nov 06 23:40:40 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Fri Nov 07 22:41:18 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Fri Nov 07 22:41:18 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Fri Nov 07 22:58:38 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sat Dec 27 00:59:12 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sat Dec 27 00:59:12 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sat Dec 27 01:14:08 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sat Dec 27 01:14:08 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sat Dec 27 09:44:19 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sat Dec 27 09:44:19 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sat Dec 27 15:36:36 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sat Dec 27 15:36:36 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sat Dec 27 16:46:29 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/inc, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 16:46:29 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 16:47:51 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 16:49:21 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/test, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 16:49:32 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 16:50:14 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 16:50:17 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 16:50:23 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 16:50:34 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 16:50:37 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 16:50:38 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 16:50:39 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 16:50:39 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 16:50:39 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 16:50:40 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 16:50:41 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 16:50:42 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 16:50:43 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 16:53:49 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/test, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 16:53:52 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=about
+[Sat Dec 27 16:53:54 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=about
+[Sat Dec 27 16:53:55 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=about
+[Sat Dec 27 16:53:56 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=contact
+[Sat Dec 27 16:53:58 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 16:53:59 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 17:00:04 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/gbook, referer: http://mysite.local/course_2/
+[Sat Dec 27 17:43:27 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 17:43:34 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 17:43:44 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 17:44:11 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 17:46:47 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 17:46:54 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 17:47:13 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 17:47:14 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 17:47:15 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 17:47:44 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 17:54:54 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 18:03:40 2014] [error] [client 127.0.0.1] (20024)The given path is misformatted or contained invalid characters: Cannot map POST /course_2/inc/%3C?=%20$_SERVER[%27REQUEST_URI%27]?%3E HTTP/1.1 to file, referer: http://mysite.local/course_2/inc/gbook.inc.php
+[Sat Dec 27 18:05:43 2014] [error] [client 127.0.0.1] (20024)The given path is misformatted or contained invalid characters: Cannot map POST /course_2/inc/%3C?=%20$_SERVER[%27REQUEST_URI%27]?%3E HTTP/1.1 to file, referer: http://mysite.local/course_2/inc/gbook.inc.php
+[Sat Dec 27 18:07:39 2014] [error] [client 127.0.0.1] (20024)The given path is misformatted or contained invalid characters: Cannot map POST /course_2/inc/%3C?=%20$_SERVER[%27REQUEST_URI%27]?%3E HTTP/1.1 to file, referer: http://mysite.local/course_2/inc/gbook.inc.php
+[Sat Dec 27 18:07:43 2014] [error] [client 127.0.0.1] (20024)The given path is misformatted or contained invalid characters: Cannot map POST /course_2/inc/%3C?=%20$_SERVER[%27REQUEST_URI%27]?%3E HTTP/1.1 to file, referer: http://mysite.local/course_2/inc/gbook.inc.php
+[Sat Dec 27 18:08:09 2014] [error] [client 127.0.0.1] (20024)The given path is misformatted or contained invalid characters: Cannot map POST /course_2/inc/%3C?=%20$_SERVER[%27REQUEST_URI%27]?%3E HTTP/1.1 to file, referer: http://mysite.local/course_2/inc/gbook.inc.php
+[Sat Dec 27 18:08:13 2014] [error] [client 127.0.0.1] (20024)The given path is misformatted or contained invalid characters: Cannot map POST /course_2/inc/%3C?=%20$_SERVER[%27REQUEST_URI%27]?%3E HTTP/1.1 to file, referer: http://mysite.local/course_2/inc/gbook.inc.php
+[Sat Dec 27 18:35:02 2014] [error] [client 127.0.0.1] (20024)The given path is misformatted or contained invalid characters: Cannot map POST /course_2/inc/%3C?=%20$_SERVER[%27REQUEST_URI%27]?%3E HTTP/1.1 to file, referer: http://mysite.local/course_2/inc/gbook.inc.php
+[Sat Dec 27 18:35:56 2014] [error] [client 127.0.0.1] (20024)The given path is misformatted or contained invalid characters: Cannot map POST /course_2/inc/%3C?=%20$_SERVER[%27REQUEST_URI%27]?%3E HTTP/1.1 to file, referer: http://mysite.local/course_2/inc/gbook.inc.php
+[Sat Dec 27 18:40:12 2014] [error] [client 127.0.0.1] (20024)The given path is misformatted or contained invalid characters: Cannot map POST /course_2/inc/%3C?=%20$_SERVER[%27REQUEST_URI%27]?%3E HTTP/1.1 to file, referer: http://mysite.local/course_2/inc/gbook.inc.php
+[Sat Dec 27 18:45:22 2014] [error] [client 127.0.0.1] (20024)The given path is misformatted or contained invalid characters: Cannot map POST /course_2/inc/%3C?=%20$_SERVER[%27REQUEST_URI%27]?%3E HTTP/1.1 to file, referer: http://mysite.local/course_2/inc/gbook.inc.php
+[Sat Dec 27 19:04:14 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 19:04:17 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 19:04:21 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 19:04:22 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 19:04:23 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 19:04:24 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 19:18:40 2014] [error] [client 127.0.0.1] (20024)The given path is misformatted or contained invalid characters: Cannot map POST /course_2/inc/%3C?=%20$_SERVER[%27REQUEST_URI%27]?%3E HTTP/1.1 to file, referer: http://mysite.local/course_2/inc/gbook.inc.php
+[Sat Dec 27 19:21:39 2014] [error] [client 127.0.0.1] (20024)The given path is misformatted or contained invalid characters: Cannot map POST /course_2/inc/%3C?=%20$_SERVER[%27PHP_SELF%27]?%3E HTTP/1.1 to file, referer: http://mysite.local/course_2/inc/gbook.inc.php
+[Sat Dec 27 19:26:42 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 19:27:10 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/eshop, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 19:27:13 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 19:27:15 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 19:28:24 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 19:28:53 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 19:29:03 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 19:29:50 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 19:30:20 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 19:30:22 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/logo.gif, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 19:34:36 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/test, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 19:35:59 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/test, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 23:00:22 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sat Dec 27 23:00:22 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sat Dec 27 23:00:51 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/test, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 23:00:59 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/eshop, referer: http://mysite.local/course_2/index.php
+[Sat Dec 27 23:54:07 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/eshop, referer: http://mysite.local/course_2/index.php?id=gbook
+[Sat Dec 27 23:55:35 2014] [error] [client 127.0.0.1] script 'D:/domains/mysite.local/index.php' not found or unable to stat, referer: http://mysite.local/course_2/test/index.php
+[Sun Dec 28 00:51:28 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/inc/gbook.inc.php&del=3, referer: http://mysite.local/course_2/inc/gbook.inc.php
+[Sun Dec 28 00:52:06 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/inc/gbook.inc.php&del=3, referer: http://mysite.local/course_2/inc/gbook.inc.php
+[Sun Dec 28 00:52:21 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/inc/gbook.inc.php&del=3, referer: http://mysite.local/course_2/inc/gbook.inc.php
+[Sun Dec 28 00:59:44 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/course_2/inc/gbook.inc.php&del=5, referer: http://mysite.local/course_2/inc/gbook.inc.php
+[Sun Dec 28 21:38:29 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sun Dec 28 21:38:29 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Mon Dec 29 12:33:19 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Mon Dec 29 12:33:19 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Mon Dec 29 16:22:23 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Mon Dec 29 16:22:23 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Mon Dec 29 16:25:01 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Mon Dec 29 16:25:01 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Mon Dec 29 16:25:12 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Mon Dec 29 16:25:12 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Tue Dec 30 23:15:12 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Tue Dec 30 23:15:12 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Tue Dec 30 23:15:18 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Tue Dec 30 23:15:18 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Tue Dec 30 23:16:43 2014] [error] [client 127.0.0.1] script 'D:/domains/mysite.local/index.php' not found or unable to stat, referer: http://www.mysite.local/course_2/test/index.php
+[Tue Dec 30 23:23:00 2014] [error] [client 127.0.0.1] script 'D:/domains/mysite.local/index.php' not found or unable to stat, referer: http://www.mysite.local/course_2/test/index.php
+[Tue Dec 30 23:23:31 2014] [error] [client 127.0.0.1] script 'D:/domains/mysite.local/index.php' not found or unable to stat, referer: http://www.mysite.local/course_2/test/index.php
+[Wed Dec 31 02:37:12 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Dec 31 02:37:12 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Dec 31 12:30:05 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Dec 31 12:30:05 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Dec 31 12:41:13 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Dec 31 12:41:13 2014] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Thu Jan 01 12:18:49 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Thu Jan 01 12:18:49 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Fri Jan 09 20:24:13 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Fri Jan 09 20:24:13 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Fri Jan 09 20:34:57 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/eshop, referer: http://mysite.local/course_2/eshop/
+[Fri Jan 09 20:36:51 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/eshop
+[Fri Jan 09 20:37:56 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/eshop
+[Fri Jan 09 20:39:50 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/eshop, referer: http://mysite.local/course_2/eshop/
+[Fri Jan 09 20:43:57 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/eshop, referer: http://mysite.local/course_2/eshop/
+[Fri Jan 09 20:44:14 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/eshop, referer: http://mysite.local/course_2/eshop/
+[Fri Jan 09 20:44:47 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/eshop, referer: http://mysite.local/course_2/eshop/
+[Fri Jan 09 20:46:24 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/eshop, referer: http://mysite.local/course_2/eshop/admin/add2cat.php
+[Fri Jan 09 20:51:29 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/eshop, referer: http://mysite.local/course_2/eshop/admin/add2cat.php
+[Fri Jan 09 20:52:01 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/eshop, referer: http://mysite.local/course_2/eshop/admin/
+[Fri Jan 09 20:58:56 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Fri Jan 09 20:58:56 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Fri Jan 09 20:59:11 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/eshop, referer: http://mysite.local/course_2/eshop/admin/index.php
+[Fri Jan 09 21:05:48 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/eshop, referer: http://mysite.local/course_2/eshop/admin/
+[Fri Jan 09 21:06:18 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/eshop, referer: http://mysite.local/course_2/eshop/admin/
+[Fri Jan 09 21:06:19 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/eshop, referer: http://mysite.local/course_2/eshop/admin/
+[Sun Jan 11 21:20:29 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sun Jan 11 21:20:29 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sun Jan 11 21:23:26 2015] [error] [client 127.0.0.1] (20024)The given path is misformatted or contained invalid characters: Cannot map POST /course_2/eshop/admin/secure/%3C?=%20$_SERVER[%27REQUEST_URI%27]?%3E HTTP/1.1 to file, referer: http://mysite.local/course_2/eshop/admin/secure/login.php?ref=/course_2/eshop/admin/
+[Sun Jan 11 21:30:06 2015] [error] [client 127.0.0.1] (20024)The given path is misformatted or contained invalid characters: Cannot map POST /course_2/eshop/admin/secure/%3C?=%20$_SERVER[%27REQUEST_URI%27]?%3E HTTP/1.1 to file, referer: http://mysite.local/course_2/eshop/admin/secure/login.php?ref=/course_2/eshop/admin/
+[Sun Jan 11 21:30:07 2015] [alert] [client 127.0.0.1] D:/domains/mysite.local/course_2/eshop/.htaccess: order takes one argument, 'allow,deny', 'deny,allow', or 'mutual-failure', referer: http://mysite.local/course_2/eshop/
+[Sun Jan 11 21:30:10 2015] [alert] [client 127.0.0.1] D:/domains/mysite.local/course_2/eshop/.htaccess: order takes one argument, 'allow,deny', 'deny,allow', or 'mutual-failure', referer: http://mysite.local/course_2/eshop/
+[Wed Jan 14 10:12:15 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Jan 14 10:12:15 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Jan 14 10:13:37 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Jan 14 10:13:37 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Jan 14 10:27:11 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Jan 14 10:27:11 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Tue Jan 27 11:30:35 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Tue Jan 27 11:30:35 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Fri Mar 13 01:39:51 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Fri Mar 13 01:39:51 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sun May 24 22:17:19 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sun May 24 22:17:19 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sun May 24 22:17:59 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Sun May 24 22:17:59 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Tue May 26 11:49:04 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Tue May 26 11:49:04 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Fri May 29 11:28:20 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Fri May 29 11:28:20 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Fri May 29 11:28:54 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Fri May 29 11:28:55 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Fri Jun 12 22:03:51 2015] [alert] [client 127.0.0.1] D:/domains/mysite.local/course_4/demo/mvc/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://mysite.local/course_4/
+[Mon Sep 21 09:48:43 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Mon Sep 21 09:48:43 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Fri Sep 25 19:31:29 2015] [alert] [client 127.0.0.1] D:/domains/mysite.local/course_4/demo/mvc/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://mysite.local/course_4/
+[Thu Nov 12 14:36:10 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Thu Nov 12 14:36:10 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Tue Dec 29 15:01:50 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Tue Dec 29 15:01:51 2015] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Jan 13 12:55:46 2016] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Jan 13 12:55:46 2016] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Jan 13 13:14:18 2016] [alert] [client 127.0.0.1] D:/domains/mysite.local/course_4/demo/mvc/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://www.mysite.local/course_4/
+[Wed Jan 13 13:33:57 2016] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Jan 13 13:33:57 2016] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Jan 13 13:35:28 2016] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Jan 13 13:35:28 2016] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Jan 13 13:35:38 2016] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Jan 13 13:35:38 2016] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Mar 30 17:51:35 2016] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
+[Wed Mar 30 17:51:35 2016] [error] [client 127.0.0.1] File does not exist: D:/domains/mysite.local/favicon.ico
