@@ -90,3 +90,13 @@
 1497906847|/course_2/|http://mysite.local/
 1499608248|/course_2/|http://mysite.local/
 1499609181|/course_2/|http://mysite.local/
+1507896011|/course_2/|http://mysite.local/
+1507896024|/course_2/index.php?id=contact|http://mysite.local/course_2/
+1507896026|/course_2/index.php?id=info|http://mysite.local/course_2/index.php?id=contact
+1507915205|/course_2/index.php?id=log|http://mysite.local/course_2/index.php?id=info
+1507915206|/course_2/index.php?id=contact|http://mysite.local/course_2/index.php?id=log
+1507915208|/course_2/index.php|http://mysite.local/course_2/index.php?id=contact
+1508611182|/course_2/|http://mysite.local/
+1508666484|/course_2/|http://mysite.local/
+1509913095|/course_2/|http://mysite.local/
+1509913424|/course_2/index.php?id=info|http://mysite.local/course_2/
