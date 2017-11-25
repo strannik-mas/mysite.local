@@ -21,7 +21,7 @@ class CarsFactory {
 
 class Toyota extends Car {
 	public function getMaxSpeed() {
-		return
+		return;
 	}
 	public function getWeight() {
 		//

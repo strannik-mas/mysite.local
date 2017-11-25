@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Последние новости</title>
+    <link>http://mysite.local/PHP-2017/course_3/news/news.php</link>
+    <item>
+      <titleNews>Липецкие школьники рассказали подробности ультразвуковой атаки</titleNews>
+      <linkNews>https://lenta.ru/news/2017/11/24/ultra/</linkNews>
+      <description><![CDATA[Школьники из Липецка, подвергшиеся воздействию ультразвука, рассказали журналистам, как оказались в больнице. По их словам, один из учеников включил найденное в интернете мобильное приложение всего на 10 минут, сообщает РЕН ТВ.]]></description>
+      <pubdate>24/11 22:08</pubdate>
+      <category>Культура</category>
+    </item>
+    <item>
+      <titleNews>Главный чекист ЛНР стал преемником Плотницкого</titleNews>
+      <linkNews>https://lenta.ru/news/2017/11/24/otstavka/</linkNews>
+      <description><![CDATA[Игорь Плотницкий подал в отставку с поста главы самопровозглашенной Луганской народной республики по состоянию здоровья. Об этом говорится в заявлении руководителя министерства государственной безопасности ЛНР Леонида Пасечника, который объявил себя исполняющим обязанности главы республики.]]></description>
+      <pubdate>24/11 21:58</pubdate>
+      <category>Политика</category>
+    </item>
+    <item>
+      <titleNews>На Украине пьяные еноты сорвали цирковое представление</titleNews>
+      <linkNews>https://rg.ru/2017/10/04/na-ukraine-pianye-enoty-sorvali-cirkovoe-predstavlenie.html</linkNews>
+      <description><![CDATA[Курьезный случай произошел в районном центре Старожинец Черновицкой области: два дрессированных енота разгромили продуктовый магазин, выпили найденное там спиртное и, как итог, сорвали цирковое представление, в котором должны были участвовать. ]]></description>
+      <pubdate>19/11 20:47</pubdate>
+      <category>Культура</category>
+    </item>
+  </channel>
+</rss>
