@@ -1,12 +1,12 @@
 <?php
-foreach(get_class_methods(new ArrayIterator()) as $key=>$method){
+/*foreach(get_class_methods(new ArrayIterator()) as $key=>$method){
 	echo $key.' -> '.$method.'<br />';
-}
+}*/
 ?>
 
 <?php
 /*
-$array = array('Âàñÿ', 'Ïåòÿ', 'Èâàí', 'Ìàøà', 'Äæîí', 'Äàøà', 'Íàòàøà', 'Ñâåòà');
+$array = array('Ð’Ð°ÑÑ', 'ÐŸÐµÑ‚Ñ', 'Ð˜Ð²Ð°Ð½', 'ÐœÐ°ÑˆÐ°', 'Ð”Ð¶Ð¾Ð½', 'Ð”Ð°ÑˆÐ°', 'ÐÐ°Ñ‚Ð°ÑˆÐ°', 'Ð¡Ð²ÐµÑ‚Ð°');
 
 try {
 	$object = new ArrayIterator($array);
@@ -27,13 +27,13 @@ try {
 
 <?php
 /*
-$array = array('Âàñÿ', 'Ïåòÿ', 'Èâàí', 'Ìàøà', 'Äæîí', 'Äàøà', 'Íàòàøà', 'Ñâåòà');
+$array = array('Ð’Ð°ÑÑ', 'ÐŸÐµÑ‚Ñ', 'Ð˜Ð²Ð°Ð½', 'ÐœÐ°ÑˆÐ°', 'Ð”Ð¶Ð¾Ð½', 'Ð”Ð°ÑˆÐ°', 'ÐÐ°Ñ‚Ð°ÑˆÐ°', 'Ð¡Ð²ÐµÑ‚Ð°');
 
 try {
 	$object = new ArrayIterator($array);
 
 	foreach($object as $key=>$value){
-		echo $key.' => '.$value.'<br />';
+		echo '<p>'.$key.' => '.$value.'</p>';
 	}
 }catch (Exception $e){
 	echo $e->getMessage();
@@ -43,7 +43,7 @@ try {
 
 <?php
 /*
-$array = array('Âàñÿ', 'Ïåòÿ', 'Èâàí', 'Ìàøà', 'Äæîí', 'Äàøà', 'Íàòàøà', 'Ñâåòà');
+$array = array('Ð’Ð°ÑÑ', 'ÐŸÐµÑ‚Ñ', 'Ð˜Ð²Ð°Ð½', 'ÐœÐ°ÑˆÐ°', 'Ð”Ð¶Ð¾Ð½', 'Ð”Ð°ÑˆÐ°', 'ÐÐ°Ñ‚Ð°ÑˆÐ°', 'Ð¡Ð²ÐµÑ‚Ð°');
 
 try {
 	$object = new ArrayIterator($array);
@@ -60,7 +60,7 @@ try {
 <?php
 /*
 echo '<ul>';
-$array = array('Âàñÿ', 'Ïåòÿ', 'Èâàí', 'Ìàøà', 'Äæîí', 'Äàøà', 'Íàòàøà', 'Ñâåòà');
+$array = array('Ð’Ð°ÑÑ', 'ÐŸÐµÑ‚Ñ', 'Ð˜Ð²Ð°Ð½', 'ÐœÐ°ÑˆÐ°', 'Ð”Ð¶Ð¾Ð½', 'Ð”Ð°ÑˆÐ°', 'ÐÐ°Ñ‚Ð°ÑˆÐ°', 'Ð¡Ð²ÐµÑ‚Ð°');
 
 try {
 	$object = new ArrayIterator($array);
@@ -72,7 +72,7 @@ try {
 
 	foreach($object as $key=>$value){
 
-		if($object->offSetGet($key) === 'Äæîí'){
+		if($object->offSetGet($key) === 'Ð”Ð¶Ð¾Ð½'){
 			$object->offSetUnset($key);
 		}
 		echo '<li>'.$key.' - '.$value.'</li>'."\n";
@@ -87,7 +87,7 @@ echo '</ul>';
 
 <?php
 /*
-$array = array('Âàñÿ', 'Ïåòÿ', 'Èâàí', 'Ìàøà', 'Äæîí', 'Äàøà', 'Íàòàøà', 'Ñâåòà');
+$array = array('Ð’Ð°ÑÑ', 'ÐŸÐµÑ‚Ñ', 'Ð˜Ð²Ð°Ð½', 'ÐœÐ°ÑˆÐ°', 'Ð”Ð¶Ð¾Ð½', 'Ð”Ð°ÑˆÐ°', 'ÐÐ°Ñ‚Ð°ÑˆÐ°', 'Ð¡Ð²ÐµÑ‚Ð°');
 
 try {
 	$object = new ArrayIterator($array);

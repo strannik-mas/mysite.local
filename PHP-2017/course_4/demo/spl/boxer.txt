@@ -1,0 +1,7 @@
+USA: Boxer1
+RUS: Boxer2
+RUS: Boxer3
+USA: Boxer4
+RUS: Boxer5
+USA: Boxer6
+RUS: Boxer7

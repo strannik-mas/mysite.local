@@ -55,7 +55,7 @@ UNION SELECT 3 as id, 'Спорт' as name ";
     function __get($name) {
         switch ($name){
             case '_db': return $this->_db;                break;
-            default : throw new Exception('ерунда');
+            default : throw new Exception('ерунда get');
         }
     }
     
