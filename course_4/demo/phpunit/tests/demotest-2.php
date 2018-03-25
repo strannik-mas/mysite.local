@@ -1,8 +1,8 @@
 <?php
-require_once('PHPUnit/Framework.php');
+//require_once('PHPUnit/Framework.php');
 require_once('classes/demo.php');
 
-class DemoTest extends PHPUnit_Framework_TestCase {
+class DemoTest extends PHPUnit\Framework\TestCase {
 	
 	public function setUp() {
 		$this->demo = new Demo();

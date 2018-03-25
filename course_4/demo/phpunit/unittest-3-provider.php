@@ -1,6 +1,6 @@
 <?php
 // Использование источника данных
-class DataTest extends PHPUnit_Framework_TestCase{
+class DataTest extends PHPUnit\Framework\TestCase{
     /**
      * @dataProvider provider
      */

@@ -43,7 +43,7 @@ class Favorites{
 			if($plugin->hasMethod($methodName)){
 				$rm = $plugin->getMethod($methodName);
 				$rmName = $plugin->getMethod('getName');
-				//îïðåäåëÿåì èìÿ, ïðè óñëîâèè, ÷òî ìåòîä ñòàòè÷åñêèé
+				//Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÑÐµÐ¼ Ð¸Ð¼Ñ, Ð¿Ñ€Ð¸ ÑƒÑÐ»Ð¾Ð²Ð¸Ð¸, Ñ‡Ñ‚Ð¾ Ð¼ÐµÑ‚Ð¾Ð´ ÑÑ‚Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹
 				$name = $rmName->invoke(null);
 				if($rm->isStatic){
 					$list[$name] = $rm->invoke(null);

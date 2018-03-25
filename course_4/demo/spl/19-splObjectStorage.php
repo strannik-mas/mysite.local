@@ -26,7 +26,7 @@ foreach($courses as $course){
 	$titles[] = (string)$course;
 }
 print join(', ', $titles);
-/*
+
 $os = new SplObjectStorage();
 
 $person = new stdClass();// Стандартный объект
@@ -34,7 +34,7 @@ $person->name = "John";
 $person->age = "25";
 
 $os->attach($person); //Добавляем объект в storage
-
+echo "<br>";
 foreach ($os as $object){
 	print_r($object);
 	echo "<br>";
@@ -76,7 +76,7 @@ foreach ($os as $object){
 	print_r($object);
 	echo "<br>";
 }
-*/
+/**/
 ?>
 <?php
 /*

@@ -1,6 +1,6 @@
 <?php
 // Использование аннотации @depends для описания зависимостей
-class StackTest extends PHPUnit_Framework_TestCase{
+class StackTest extends PHPUnit\Framework\TestCase{
     
 	public function testEmpty(){
         $arr = array();
@@ -26,7 +26,7 @@ class StackTest extends PHPUnit_Framework_TestCase{
     public function testPop(array $arr)
     {
         $this->assertEquals('foo', array_pop($arr));
-        $this->assertTrue(empty($arr));
+        $this->assertTrue(!empty($arr));
     }
 }
 ?>

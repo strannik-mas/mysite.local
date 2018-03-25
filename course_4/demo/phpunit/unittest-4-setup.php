@@ -1,6 +1,6 @@
 <?php
 // Использование setUp() для создания тестового окружения тестирования стека
-class ArrayTest extends PHPUnit_Framework_TestCase{
+class ArrayTest extends PHPUnit\Framework\TestCase{
     protected $arr;
  
     protected function setUp(){

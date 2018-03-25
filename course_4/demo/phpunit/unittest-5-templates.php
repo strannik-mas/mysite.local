@@ -1,8 +1,8 @@
 <?php
 // ѕрименение всех возможных шаблонных методов
-require_once 'PHPUnit/Framework.php';
+//require_once 'PHPUnit/Framework.php';
 
-class TemplateMethodsTest extends PHPUnit_Framework_TestCase{
+class TemplateMethodsTest extends PHPUnit\Framework\TestCase{
     public static function setUpBeforeClass(){
         print __METHOD__ . "\n";
     }
