@@ -16,8 +16,8 @@ abstract class MyClass{
   }
 }
 // Обзор пользовательского класса
-Reflection::export(new ReflectionClass('MyClass'));
-exit;
+//Reflection::export(new ReflectionClass('MyClass'));
+//exit;
 
 // Обзор встроенного класса
 Reflection::export(new ReflectionClass('Exception'));

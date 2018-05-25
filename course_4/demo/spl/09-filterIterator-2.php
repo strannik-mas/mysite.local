@@ -2,9 +2,9 @@
 class EvenFilter extends FilterIterator{
 
 
-	public function __construct(Iterator $it){
+	/* public function __construct(Iterator $it){
 		parent::__construct($it);
-	}
+	} */
 
 	function accept(){
 		if($this->current() % 2 != 0){
