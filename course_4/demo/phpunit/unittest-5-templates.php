@@ -37,7 +37,7 @@ class TemplateMethodsTest extends PHPUnit\Framework\TestCase{
         print __METHOD__ . "\n";
     }
 
-    protected function onNotSuccessfulTest(Exception $e){
+    protected function onNotSuccessfulTest(Throwable $e){
         print __METHOD__ . "\n";
         throw $e;
     }

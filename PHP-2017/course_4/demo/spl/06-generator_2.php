@@ -1,5 +1,5 @@
 <?php
-/*
+
 function nums(){
     echo '<span>START</span><br>';
     
@@ -18,18 +18,16 @@ function get(){
     yield 10=> 'Hello';
     yield 'e';
 }
-//foreach (nums() as $v);
+foreach (nums() as $v);
 foreach (get() as $k=>$v){
     echo "$k : $v<br>";
 }
- * 
- */
 
-function echoLogger(){
+/*function echoLogger(){
     while(true){
         echo 'Log: '. yield . '<br>';
     }
 }
 $logger = echoLogger();
 $logger->send('Hello');
-$logger->send(';lkjs');
+$logger->send(';lkjs');*/

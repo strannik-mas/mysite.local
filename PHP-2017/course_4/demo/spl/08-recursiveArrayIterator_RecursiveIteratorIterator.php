@@ -23,6 +23,7 @@ class MyMenu extends RecursiveIteratorIterator{
 // Рекурсивная итерация
 $rit = new MyMenu(new RecursiveArrayIterator($menu), 
                      RecursiveIteratorIterator::SELF_FIRST);
+var_dump(iterator_to_array($rit));
 echo "<ul>\n";
 foreach($rit as $key => $value) {
   if ($rit->hasChildren()) {

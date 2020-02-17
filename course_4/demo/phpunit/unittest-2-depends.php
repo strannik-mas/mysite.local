@@ -26,7 +26,7 @@ class StackTest extends PHPUnit\Framework\TestCase{
     public function testPop(array $arr)
     {
         $this->assertEquals('foo', array_pop($arr));
-        $this->assertTrue(!empty($arr));
+        $this->assertTrue(empty($arr));
     }
 }
 ?>
